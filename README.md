@@ -1,4 +1,4 @@
-### Mutante protection
+### Mutant protection
 A wide collection of anti-debugging techniques that not only break skids but also destroy their passion for reverse engineering.
 
 ### Why I'm releasing this?
